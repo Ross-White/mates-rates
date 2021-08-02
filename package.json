@@ -9,6 +9,8 @@
     "css-dev": "postcss styles/app.css -o styles/globals.css"
   },
   "dependencies": {
+    "@apollo/client": "^3.4.2",
+    "graphql": "^15.5.1",
     "next": "11.0.1",
     "postcss-cli": "^8.3.1",
     "react": "17.0.2",
